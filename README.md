@@ -5,9 +5,9 @@ This is only a V1 and the core functions are stable on Linux as currently its on
 
 The Browser ist currently still simple only having the core functions:
 
-URL Searchbar
-Forward and Backwards
-Refresh the Page
+URL Searchbar,
+Forward and Backwards,
+Refresh the Page,
 Working Tab system with automatically changing names to the website youre on
 
 Also the base Browser is Duck Duck Go if youd like to change this you have to go into the TB_Broser.py file and change in the section of the start tab the URL to the desired start website
